@@ -106,17 +106,17 @@ td.abstract img{display: block; margin: 4px auto 8px auto}
 table.plenary{padding-top: 8px; background: #ffffff;}
 
 /* selbst eingefuegt*/ 
-table.table2 {width: 1000px;
+table.table2{width: 1000px;
     margin: 12px auto 24px auto;
     float: center;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
     border: 1px solid black;}
-table.table2 td {    text-align: center;
+table.table2 td{    text-align: center;
   height:35px;
   padding: 15px 4px 4px 4px;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
     border: 1px solid black;}
-table.table2 th {    text-align: center;
+table.table2 th{    text-align: center;
   padding: 15px 4px 4px 4px;
    font-size:1.67em;
   height:35px;
